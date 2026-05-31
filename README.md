@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abinash1417&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abinash1417&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
 ---
