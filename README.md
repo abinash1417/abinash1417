@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinash1417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash1417&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abinash1417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinash's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abinash1417&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
