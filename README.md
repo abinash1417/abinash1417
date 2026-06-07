@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/kopalachandran-abinash-2a951a2b9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://kopalachandranabinash-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="mailto:kopalachandranabinash@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -38,7 +41,8 @@
 - 🤖 Passionate about integrating **AI (Groq AI)** into real-world solutions
 - 🌱 Currently exploring **Microservices, CI/CD & Cloud Architecture**
 - 📝 I write on [Medium](https://medium.com/@chandrannash28141)
-- 📍 Colombo, Sri Lanka &nbsp;|&nbsp; 📞 +94 76 461 0649
+- 🌐 Portfolio: [kopalachandranabinash-portfolio.vercel.app](https://kopalachandranabinash-portfolio.vercel.app/)
+- 📍 Colombo, Sri Lanka
 
 ---
 
@@ -61,6 +65,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Databases & Tools**
 
@@ -77,45 +82,50 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Electronics Ordering System *(Feb 2026 – May 2026)*
-> Full-stack e-commerce platform with AI-powered product comparison
+### 🛒 ElectroMart — Electronics Ordering System *(Feb 2026 – May 2026)*
+> Full-stack e-commerce platform with RBAC & AI-powered product comparison
 
-- Built end-to-end with user authentication, cart & order management, and responsive UI
-- Integrated **Groq AI** for intelligent product comparison and customer assistance
-- **Stack:** React.js · Spring Boot · MySQL · JWT · Tailwind CSS · Groq AI · Vite · Docker
+- Secure role-based access control (RBAC) using Spring Security & JWT for user and admin workflows
+- Integrated **Groq AI** for asynchronous intelligent product comparison and customer assistance
+- **Stack:** React.js · Spring Boot · MySQL · JWT · Tailwind CSS · Groq AI · REST APIs
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/ElectroMart)
+[![Live Demo](https://img.shields.io/badge/YouTube-Demo%20Video-FF0000?style=flat-square&logo=youtube)](https://youtu.be/WliWJUp9S5Y?si=vqlWN8LLNO0L6Eis)
 
 ---
 
-### 🏥 Medical Appointment Booking System *(Mar 2026 – May 2026)*
-> Full-stack hospital management system with real-time communication
+### 🏥 Hospital App — Medical Appointment Booking System *(Mar 2026 – May 2026)*
+> Full-stack hospital management system with real-time communication & AWS deployment
 
-- Unified platform for appointment booking, digital prescriptions & AI-powered symptom checking
-- Implemented **Socket.io** real-time chat, email notifications, Cloudinary image management & PDF generation
-- **Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · Groq AI · JWT · Tailwind CSS · Docker
+- Unified platform for appointment booking, real-time doctor-patient chat via Socket.io, and AI symptom checking
+- Implemented zero-downtime CI/CD pipeline with Docker, Jenkins, AWS ECR, Load Balancer & Auto Scaling
+- **Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · Groq AI · JWT · Docker · AWS · Jenkins
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/Hospital-app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=amazon-aws)](http://hospital-app-frontend-159372.s3-website.eu-north-1.amazonaws.com)
 
 ---
 
 ### 📚 Book Fair Management System *(Oct 2025 – Jan 2026)*
-> Full-stack web app with QR code integration *(Group Project)*
+> Full-stack stall reservation platform with QR verification *(Group Project)*
 
-- Managed stall reservations, payments, and QR code generation with JWT-based authentication
-- Built comprehensive **admin dashboard** for real-time stall tracking & reservation management
+- JWT-based authentication with separate vendor and admin workflows
+- Real-time admin dashboard for stall tracking, automated payments & dynamic QR code generation
 - **Stack:** React.js · Spring Boot · MySQL · Tailwind CSS · JWT · REST APIs · QR Code Integration
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Sathiyabalan29/BookFair)
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 AI-Powered PDF Chatbot *(May 2026 – Present)*
+> Intelligent multi-PDF chatbot with semantic search and conversational Q&A
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinash1417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash1417&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+- Upload multiple PDFs and interact with them via natural language conversations
+- Built a **RAG pipeline** using LangChain and FAISS for accurate semantic document retrieval
+- Integrated **Groq API** for fast, context-aware AI responses with a clean Streamlit UI
+- **Stack:** Python · LangChain · FAISS · Groq AI · Streamlit
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/pdf-chatbot)
 
 ---
 
@@ -123,14 +133,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abinash1417&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abinash1417&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -158,6 +160,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kopalachandran-abinash-2a951a2b9">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kopalachandranabinash-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:kopalachandranabinash@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail" />
