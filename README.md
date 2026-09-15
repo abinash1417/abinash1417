@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js;AI+Integration+Enthusiast;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Internships!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Engineer;Spring+Boot+%7C+React+%7C+Node.js;LangChain+%7C+LangGraph+%7C+RAG+Systems;Building+Full-Stack+%2B+AI-Powered+Apps+%F0%9F%9A%80;Open+to+SE+%2F+AI-ML+Internships!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,12 +34,13 @@
 
 ## 🧑‍💻 About Me
 
-> *Building AI-powered full-stack apps with Spring Boot & React | Seeking SWE Internships*
+> *Software Engineering undergraduate building full-stack applications and applied Generative AI systems — from production web apps to multi-agent LLM pipelines*
 
 - 🎓 **B.Sc (Hons) in Software Engineering** @ University of Kelaniya *(2024 – Present)*
-- 💼 Full-Stack Dev — **Spring Boot · React · Node.js · Docker · AWS**
-- 🤖 Passionate about integrating **AI (Groq AI)** into real-world solutions
-- 🌱 Currently exploring **Microservices, CI/CD & Cloud Architecture**
+- 💼 Full-Stack Development — **Spring Boot · React · Node.js · Docker · AWS**
+- 🤖 Applied AI/ML — **LangChain · LangGraph · RAG pipelines · Multi-agent systems · Vector Databases**
+- 🔬 Comfortable across the stack: from REST APIs and CI/CD pipelines to prompt engineering and agent orchestration
+- 🌱 Currently exploring **Microservices, Cloud Architecture & AI Agent Evaluation**
 - 📝 I write on [Medium](https://medium.com/@chandrannash28141)
 - 🌐 Portfolio: [kopalachandranabinash-portfolio.vercel.app](https://kopalachandranabinash-portfolio.vercel.app/)
 - 📍 Colombo, Sri Lanka
@@ -51,13 +52,13 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Frameworks & Libraries**
+**Full-Stack Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -65,9 +66,18 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Databases & Tools**
+**AI / ML Frameworks & Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square&logo=databricks&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases, Cloud & DevOps**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -82,7 +92,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 ElectroMart — Electronics Ordering System *(Feb 2026 – May 2026)*
+### 🛒 ElectroMart — Electronics Ordering System
 > Full-stack e-commerce platform with RBAC & AI-powered product comparison
 
 - Secure role-based access control (RBAC) using Spring Security & JWT for user and admin workflows
@@ -94,7 +104,19 @@
 
 ---
 
-### 🏥 Hospital App — Medical Appointment Booking System *(Mar 2026 – May 2026)*
+### 🤖 Synthesis — AI Research & Knowledge Platform
+> Multi-agent RAG platform that researches, writes, and reviews answers grounded in uploaded documents
+
+- Architected a multi-agent RAG system where a Researcher agent dynamically chooses between semantic search and full-document retrieval based on query intent
+- Resolved a tool-routing flaw causing whole-document queries to fail by redesigning the agent's decision logic
+- **Stack:** Python · LangGraph · LangChain · ChromaDB · Groq API · Streamlit
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/synthesis-ai-platform)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit)](https://synthesis-ai-platform-aaa782jikuwkmtv8noum3u.streamlit.app/)
+
+---
+
+### 🏥 Hospital App — Medical Appointment Booking System
 > Full-stack hospital management system with real-time communication & AWS deployment
 
 - Unified platform for appointment booking, real-time doctor-patient chat via Socket.io, and AI symptom checking
@@ -106,7 +128,31 @@
 
 ---
 
-### 📚 Book Fair Management System *(Oct 2025 – Jan 2026)*
+### 🧪 AI Software Engineering Assistant
+> Multi-agent LLM pipeline that reviews code, detects bugs, generates unit tests, and scores code health
+
+- Engineered a 4-stage automated code review pipeline (analysis, bug detection, test generation, scoring) producing a structured Code Health Report
+- Validated evaluation honesty across clean, buggy, and poorly-structured code samples to prevent fabricated issues
+- **Stack:** Python · LangGraph · LangChain · Groq API · Streamlit
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/AI-software-engineering-assistant)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit)](https://ai-software-engineering-assistant-pnm5g2fth3thobho53toxx.streamlit.app/)
+
+---
+
+### 🎯 AI Career & Interview Platform
+> GenAI-powered career platform with role-aware resume scoring and adaptive mock interviews
+
+- Designed an end-to-end AI job-prep platform generating role-aware resume scoring, skill-gap analysis, and adaptive mock interview questions
+- Uncovered and fixed a scoring flaw where resumes were judged in isolation rather than against the target role, improving evaluation accuracy
+- **Stack:** Python · LangGraph · LangChain · Groq API · Streamlit
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/AI-Career-Interview-Platform)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit)](https://ai-career-interview-platform-hjuesfzghouxmswtckm8ti.streamlit.app/)
+
+---
+
+### 📚 Book Fair Management System
 > Full-stack stall reservation platform with QR verification *(Group Project)*
 
 - JWT-based authentication with separate vendor and admin workflows
@@ -114,18 +160,6 @@
 - **Stack:** React.js · Spring Boot · MySQL · Tailwind CSS · JWT · REST APIs · QR Code Integration
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Sathiyabalan29/BookFair)
-
----
-
-### 🤖 AI-Powered PDF Chatbot *(May 2026 – Present)*
-> Intelligent multi-PDF chatbot with semantic search and conversational Q&A
-
-- Upload multiple PDFs and interact with them via natural language conversations
-- Built a **RAG pipeline** using LangChain and FAISS for accurate semantic document retrieval
-- Integrated **Groq API** for fast, context-aware AI responses with a clean Streamlit UI
-- **Stack:** Python · LangChain · FAISS · Groq AI · Streamlit
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/pdf-chatbot)
 
 ---
 
