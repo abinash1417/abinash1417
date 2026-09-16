@@ -124,7 +124,7 @@
 - **Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · Groq AI · JWT · Docker · AWS · Jenkins
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/abinash1417/Hospital-app)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=amazon-aws)](http://hospital-app-frontend-159372.s3-website.eu-north-1.amazonaws.com)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-FF0000?style=flat-square&logo=youtube)](https://youtu.be/oN8VSXBk8ek)
 
 ---
 
