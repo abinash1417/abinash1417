@@ -37,7 +37,7 @@
 > *Software Engineering undergraduate building full-stack applications and applied Generative AI systems — from production web apps to multi-agent LLM pipelines*
 
 - 🎓 **B.Sc (Hons) in Software Engineering** @ University of Kelaniya *(2024 – Present)*
-- 💼 Full-Stack Development — **Spring Boot · React · Node.js · Docker · AWS**
+- 💼 Full-Stack Development — **Spring Boot · MERN · Docker · AWS**
 - 🤖 Applied AI/ML — **LangChain · LangGraph · RAG pipelines · Multi-agent systems · Vector Databases**
 - 🔬 Comfortable across the stack: from REST APIs and CI/CD pipelines to prompt engineering and agent orchestration
 - 🌱 Currently exploring **Microservices, Cloud Architecture & AI Agent Evaluation**
